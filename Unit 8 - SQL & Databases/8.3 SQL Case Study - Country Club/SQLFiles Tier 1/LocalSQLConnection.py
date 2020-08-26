@@ -1,5 +1,6 @@
-# import sqlite3
+import sqlite3
 from sqlite3 import Error
+
  
 def create_connection(db_file):
     """ create a database connection to the SQLite database
@@ -15,6 +16,7 @@ def create_connection(db_file):
         print(e)
  
     return conn
+
  
 def select_all_tasks(conn):
     """
@@ -37,7 +39,7 @@ def select_all_tasks(conn):
 
 
 def main():
-    database = "sqlite\db\pythonsqlite.db"
+    database = "sqlite_db_pythonsqlite.db"
  
     # create a database connection
     conn = create_connection(database)
