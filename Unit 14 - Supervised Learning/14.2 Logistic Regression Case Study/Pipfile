@@ -12,6 +12,7 @@ jupyter = "*"
 scikit-learn = "==0.23.1"
 scipy = "*"
 seaborn = "*"
+openpyexcel = "*"
 
 [requires]
 python_version = "3.8"
