@@ -3,7 +3,9 @@ Files relating to DSC Curriculum
 
 # Curriculum Links
 
-TODO
+- 14: Supervised Learning.
+  - 14.2: Logistic Regression
+    - 14.6.11: [Case Study - Logistic Regression](/Supervised%20Learning/Logistic%20Regression%20Case%20Study/)
 
 # Solutions
 
