@@ -3,9 +3,12 @@ Files relating to DSC Curriculum
 
 # Curriculum Links
 
-- 14: Supervised Learning.
-  - 14.2: Logistic Regression
-    - 14.6.11: [Case Study - Logistic Regression](/Supervised%20Learning/Logistic%20Regression%20Case%20Study/)
+- Unit 7: Data Wrangling.
+  - 7.2: Data Collection.
+    - 7.2.5: [API Mini-Project](/Data%20Wrangling/Data%20Collection/API%20Mini%20Project/)
+- Unit 14: Supervised Learning.
+  - 14.2: Logistic Regression.
+    - 14.6.11: [Case Study - Logistic Regression](/Supervised%20Learning/Logistic%20Regression%20Case%20Study/).
 
 # Solutions
 
