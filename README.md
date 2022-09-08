@@ -1,4 +1,4 @@
-# dsc
+# DSC Curriculum Material
 Files relating to DSC Curriculum
 
 # Curriculum Links
