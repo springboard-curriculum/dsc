@@ -165,7 +165,7 @@ INNER JOIN Members ON Bookings.memid = Members.memid
 )lrev
 GROUP BY lrev.facility
 )lrev2
-WHERE lrev2.total_revenue <1000
+WHERE lrev2.total_revenue <1000;
 
 /* Q11: Produce a report of members and who recommended them in alphabetic surname,firstname order */
 
